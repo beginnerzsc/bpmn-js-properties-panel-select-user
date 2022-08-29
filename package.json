@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-properties-panel-select-user",
-  "version": "0.37.7",
+  "version": "0.37.8",
   "description": "A simple properties panel for bpmn-js",
   "scripts": {
     "lint": "eslint .",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bpmn-io/bpmn-js-properties-panel-select-user"
+    "url": "https://github.com/zscgxs/bpmn-js-properties-panel-select-user"
   },
   "keywords": [
     "bpmn-js",
